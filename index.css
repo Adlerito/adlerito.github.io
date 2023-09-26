@@ -313,7 +313,7 @@ header{
 /*=================================
 			HOME RULES
 =================================*/
-.video_img {
+.video_img{
     background-image: url(img/about.jpg);
     width: 100vw;
     height: 100vh;

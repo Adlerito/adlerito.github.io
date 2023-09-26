@@ -314,7 +314,7 @@ header{
 			HOME RULES
 =================================*/
 .video_img {
-    background-image: url(img/about.JPG);
+    background-image: url(_img/about.jpg);
     width: 100vw;
     height: 100vh;
     margin-top: 1612px;

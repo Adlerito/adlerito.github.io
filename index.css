@@ -1579,7 +1579,7 @@ textarea.one{
 	    padding-bottom: 90px;
 	}
 	.video_img {
-	    background-image: url(img/about.JPG);
+	    background-image: url(. /img/about.JPG);
 	    width: 133em;
 	    height: 51em;
 	    margin-top: 0px;
